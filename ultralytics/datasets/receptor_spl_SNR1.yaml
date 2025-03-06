@@ -1,0 +1,7 @@
+path: /home/pointseg/datasets/deepblink/receptorSpl/SNR1
+train: images/train # train images
+val: images/test # val images
+test: images/test # test images
+
+names:
+  0: point

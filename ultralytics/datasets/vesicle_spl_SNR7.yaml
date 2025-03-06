@@ -1,0 +1,8 @@
+path: /home/pointseg/datasets/deepblink/vesicleSpl/SNR7
+train: images/train # train images
+val: images/test # val images
+test: images/test # test images
+
+# Classes
+names:
+  0: point
